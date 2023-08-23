@@ -9,4 +9,4 @@ When playing with a tamagotchi, there will be different commands that a user can
 
 This project utilizes object-oriented programming and established design patterns. The UML diagrams provide visualizations of how the program works as the game is played.
 
-** Group project for software design @ Vrije Universiteit, Spring 2023
+** Group project for Software Design @ Vrije Universiteit, Spring 2023
